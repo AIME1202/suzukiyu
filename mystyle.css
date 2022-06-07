@@ -1,1 +1,5 @@
-
+h1 { color: blue; }
+＊続いてindex.htmlのタイトル行の下に以下を足して保存し、実行しなさい。
+<title>Web開発の練習1</title>
+<link rel="stylesheet" href="mystyle.css"> 
+<!--この行を追加-->
